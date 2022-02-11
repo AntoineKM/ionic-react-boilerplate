@@ -1,0 +1,6 @@
+{
+	"appId": "fr.antoinek.ionicreactboilerplate",
+	"appName": "ionic-react-boilerplate",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
